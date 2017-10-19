@@ -1,0 +1,7 @@
+public class tasks {
+  public static void main(String[] arg) {
+    String task1 = "sleep";
+    String task2 = "eat";
+    String task3 = "work";
+      System.out.printlt(task3);
+        }
